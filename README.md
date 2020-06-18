@@ -19,3 +19,4 @@
 |  15  |  Search in a Binary Search Tree | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/15.cpp) |
 |  16  |       Validate IP Address       | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/16.cpp) |
 |  17  |        Surrounded Regions       | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/17.cpp) |
+|  18  |            H-Index II           | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/18.cpp) |
