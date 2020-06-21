@@ -20,3 +20,6 @@
 |  16  |       Validate IP Address       | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/16.cpp) |
 |  17  |        Surrounded Regions       | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/17.cpp) |
 |  18  |            H-Index II           | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/18.cpp) |
+|  19  |   Longest Duplicate Substring   | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/19.cpp) |
+|  20  |       Permutation Sequence      | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/20.cpp) |
+|  21  |           Dungeon Game          | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/21.cpp) |
