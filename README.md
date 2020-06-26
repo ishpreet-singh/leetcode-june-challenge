@@ -24,3 +24,6 @@
 |  20 |       Permutation Sequence      | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/20.cpp) |
 |  21 |           Dungeon Game          | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/21.cpp) |
 |  22 |         Single Number II        | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/22.cpp) |
+|  23 |    Count Complete Tree Nodes    | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/23.cpp) |
+|  24 |    Unique Binary Search Trees   | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/24.cpp) |
+|  25 |    Find the Duplicate Number    | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/25.cpp) |
