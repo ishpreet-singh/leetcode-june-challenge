@@ -27,3 +27,8 @@
 |  23 |    Count Complete Tree Nodes    | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/23.cpp) |
 |  24 |    Unique Binary Search Trees   | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/24.cpp) |
 |  25 |    Find the Duplicate Number    | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/25.cpp) |
+|  26 |     Sum Root to Leaf Numbers    | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/26.cpp) |
+|  27 |         Perfect Squares         | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/27.cpp) |
+|  28 |      Reconstruct Itinerary      | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/28.cpp) |
+|  29 |           Unique Paths          | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/29.cpp) |
+|  30 |          Word Search II         | [Link](https://github.com/ishpreet-singh/leetcode-june-challenge/blob/master/30.cpp) |
